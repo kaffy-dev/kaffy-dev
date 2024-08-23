@@ -10,7 +10,6 @@ I'm a tech enthusiast, passionate about software engineering and product design.
 - 🌱 I’m currently learning Python.
 - 😊 I’m open to internships, open source projects and entry-level opportunities to further develop my skills and gain more knowledge.
 - 💼 Job interests: Software Engineer or Product Designer
-- 📫 You can contact me by emailing kafayatlawal112@gmail.com.
 
 ---
 
