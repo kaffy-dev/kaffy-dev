@@ -13,5 +13,5 @@ I'm a tech enthusiast, passionate about software engineering and product design.
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaffydev&show_icons=true&include_all_commits=true&hide_border=true" alt="Kafayat's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaffydev&langs_count=8&layout=compact&hide_border=true" alt="Kafayat's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaffy-dev&show_icons=true&include_all_commits=true&hide_border=true" alt="Kafayat's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaffy-dev&langs_count=8&layout=compact&hide_border=true" alt="Kafayat's GitHub stats" /> |
 | ------------- | ------------- |
